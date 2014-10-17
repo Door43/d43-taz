@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[taz:home|Door43 (taz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-taz|d43-taz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-taz/archive/master.zip|d43-taz.zip]]
+
+**Recent Changes**
+{{changes>ns = taz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/taz|Ethnologue data]]
+
